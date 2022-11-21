@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "298909518047",
+    "project_id": "ekzamen-b088f",
+    "storage_bucket": "ekzamen-b088f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:298909518047:android:20ebf1ab2208a7c2ff816a",
+        "android_client_info": {
+          "package_name": "com.example.ekzamen"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "298909518047-8in6p4sgqbds0kaojbm0etaj4b8ieqgs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCe-4TE6cJC85TltHfRF6V2EjJk4XDsbG4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "298909518047-8in6p4sgqbds0kaojbm0etaj4b8ieqgs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
